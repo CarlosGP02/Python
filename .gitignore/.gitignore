@@ -1,0 +1,3 @@
+# coding: utf­8
+dia_semana = "Domingo"
+print ("Estamos a " , dia_semana , " llevare sombrero " )
