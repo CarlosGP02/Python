@@ -4,15 +4,18 @@
 -Inmobilizar columnas
 -Ocultar columnas
 -Formato condicional
--Nota
--Comentario
+-Nota:
+Ej:Para guardarse ideas o matizes que quieres añadir a tu texto.
+-Comentario:
+Ej:En un trabajo para aclarecer quien hace cada tarea
 -Ajustar texto:
 Desbordamiento/Ajuste/Recorte
 -Alinear:
 Izquierda/Centro/Derecha
 Arriba/Medio/Abajo
 -Insertar gráfica
--Media ponderada
+-Media ponderada:
+Es el "peso" que se le da a x valor.
 -DATEIF:
 NOW,D,M,Y
 -COUNT
